@@ -1,6 +1,6 @@
 # 📘 Manual de Supervivencia Git (Flujo Multi-PC)
 
-Este manual contiene las instrucciones exactas para trabajar de forma aislada con mis tres identidades (**`xlasa`** para Estudios, **`xabifune`** para proyectos Personales y la futura cuenta del Trabajo) sin que se mezclen los correos y esquivando los bloqueos de red de la empresa.
+Este manual contiene las instrucciones exactas para trabajar de forma aislada con mis tres identidades sin que se mezclen los correos y esquivando los bloqueos de red de la empresa.
 
 ---
 
